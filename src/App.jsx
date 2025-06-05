@@ -10,13 +10,13 @@ import Footer from './components/Footer.jsx';
 function App() {
   const [query, setQuery] = useState('');
   const [data, setData] = useState([]);
-  const eventsRef = useRef(null); // ✅ Add ref
+  const eventsRef = useRef(null); 
 
   useEffect(() => {
     setData(events);
   }, []);
 
-  // ✅ Scroll into view when user starts typing
+  
   useEffect(() => {
     if (query.trim() !== '' && eventsRef.current) {
       eventsRef.current.scrollIntoView({ behavior: 'smooth' });
