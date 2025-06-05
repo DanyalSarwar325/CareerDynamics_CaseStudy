@@ -29,7 +29,7 @@ function App() {
       <HeroSection />
      
       <div id='events' className="bg-gray-100" ref={eventsRef}> 
-        <h1 className="text-4xl text-[#0E2148] text-center pt-5 font-bold">Upcoming Events</h1>
+        <h1 className="text-4xl text-[#0E2148] text-center pt-5 font-bold">Featured Events</h1>
         <div className="min-h-screen bg-gray-100 py-10 px-4 flex flex-wrap gap-6 justify-center">
           {data
             .filter((item) => item.eventName.toLowerCase().includes(query.toLowerCase()))
