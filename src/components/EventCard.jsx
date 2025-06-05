@@ -6,7 +6,7 @@ export const EventCard = ({ event }) => {
   
   return (
     <section >
-    <div className="max-w-[250px]   rounded-xl overflow-hidden shadow-lg transition duration-300 border border-gray-200 hover:border-pink-500 hover:shadow-pink-300 hover:shadow-md cursor-pointer">
+    <div className="max-w-[250px]   rounded-xl overflow-hidden shadow-lg transition duration-300 border border-gray-200 hover:border-pink-500 hover:shadow-pink-300 hover:shadow-md ">
       <img
         className="w-full h-40 object-cover"
         src={event.image}
@@ -30,7 +30,7 @@ export const EventCard = ({ event }) => {
           </div>
         </div>
         <div className="mt-4 text-center">
-          <button className="bg-[#0E2148] text-white text-sm px-4 py-2 rounded-full transition">
+          <button className="bg-[#0E2148] text-white text-sm px-4 py-2 rounded-full transition cursor-pointer hover:shadow-lg">
             Register
           </button>
         </div>

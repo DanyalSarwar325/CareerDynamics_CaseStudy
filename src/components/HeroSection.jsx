@@ -12,7 +12,7 @@ const HeroSection = () => {
         <p className="text-3xl md:text-5xl font-serif mb-6">
           Faster with LocalVibe
         </p>
-        <button className="bg-pink-500 text-white px-6 py-2 rounded hover:bg-pink-600 transition">
+        <button className="bg-pink-500 text-white px-6 py-2 rounded hover:bg-pink-600 transition cursor-pointer">
           Explore Now
         </button>
       </div>

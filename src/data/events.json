@@ -11,7 +11,7 @@
   {
     "id": 2,
     "eventName": "Tech Conference",
-    "description": "Relax and rejuvenate with yoga by the sea at golden hour.",
+    "description": "Get a chance to meet industry leaders and innovators.",
     "location": "Karachi",
     "date": "August 10, 2025",
     "time": "5:30 PM - 7:00 PM",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "eventName": "Battle of Bands",
-    "description": "Live performances on floating stages in paradise.",
+    "description": "Live performances and night full of joy.",
     "location": "MCS, NUST",
     "date": "September 1, 2025",
     "time": "6:00 PM - 11:00 PM",
@@ -28,8 +28,8 @@
   },
   {
     "id": 4,
-    "eventName": "Truck Art Workshop",
-    "description": "Discover Pakistan’s vibrant truck art & painting sessions.",
+    "eventName": " Art Workshop",
+    "description": "Discover Pakistan’s vibrant  art & painting sessions.",
     "location": "Lok Virsa, Islamabad",
     "date": "October 5, 2025",
     "time": "2:00 PM - 6:00 PM",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "eventName": "Film Screening Night",
-    "description": "Watch award-winning indie films under the stars.",
+    "description": "Watch the most awaited movies and enjoy it.",
     "location": "PNCA, Islamabad",
     "date": "October 20, 2025",
     "time": "7:00 PM - 10:00 PM",

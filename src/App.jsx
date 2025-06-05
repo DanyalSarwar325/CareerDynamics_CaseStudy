@@ -5,6 +5,7 @@ import Navbar from './components/Navbar.jsx';
 import HeroSection from './components/HeroSection.jsx';
 import { EventCard } from './components/EventCard.jsx';
 import events from './data/events.json';
+import Footer from './components/Footer.jsx';
 
 function App() {
   const [query, setQuery] = useState('');
@@ -37,6 +38,7 @@ function App() {
             ))}
         </div>
       </div>
+      <Footer />
      
     </>
   );
