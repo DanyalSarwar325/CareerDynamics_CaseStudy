@@ -24,3 +24,7 @@ Follow the steps below to set up and run the project in your local environment:
 1. **Vercel Link*
 
 https://career-dynamics-case-study.vercel.app/
+
+## 📸 Project Screenshot
+
+![LocalVibe Screenshot](./assets/CaseStudyImage.png)

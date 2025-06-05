@@ -3,7 +3,7 @@
     "id": 1,
     "eventName": "Book Festival",
     "description": "Access to thousands of books publishers and much more.",
-    "location": "Lahore",
+    "location": "Urdu Bazar,Lahore",
     "date": "July 25, 2025",
     "time": "4:00 PM - 9:00 PM",
     "image": "./Book.jpeg"
@@ -12,7 +12,7 @@
     "id": 2,
     "eventName": "Tech Conference",
     "description": "Get a chance to meet industry leaders and innovators.",
-    "location": "Karachi",
+    "location": "Jacranda Hall, Islamabad",
     "date": "August 10, 2025",
     "time": "5:30 PM - 7:00 PM",
     "image": "./AI.jpeg"
@@ -48,7 +48,7 @@
     "id": 6,
     "eventName": "Food Street Night",
     "description": "Enjoy traditional street food and live Qawwali in the historic streets.",
-    "location": "Burns Road, Karachi",
+    "location": "Korangi Town, Karachi",
     "date": "November 15, 2025",
     "time": "6:00 PM - 12:00 AM",
     "image": "./Food.jpeg"
@@ -57,7 +57,7 @@
     "id": 7,
     "eventName": "Film Screening Night",
     "description": "Watch the most awaited movies and enjoy it.",
-    "location": "PNCA, Islamabad",
+    "location": "Joyland Cinema, Lahore",
     "date": "October 20, 2025",
     "time": "7:00 PM - 10:00 PM",
     "image": "./Film.jpeg"
