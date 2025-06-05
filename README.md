@@ -17,9 +17,11 @@ Follow the steps below to set up and run the project in your local environment:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/DanyalSarwar325/CareerDynamics_CaseStudy.git
+   
+2. cd CareerDynamics_CaseStudy
 
-2. Run command - npm i
-3. Run Command-  npm run dev
+3. Run command - npm i
+4. Run Command-  npm run dev
 
 1. **Vercel Link*
 
