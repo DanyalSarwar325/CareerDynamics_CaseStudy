@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "eventName": "Book Festival",
+    "description": "Access to thousands of books publishers and much more.",
+    "location": "Lahore",
+    "date": "July 25, 2025",
+    "time": "4:00 PM - 9:00 PM",
+    "image": "./Book.jpeg"
+  },
+  {
+    "id": 2,
+    "eventName": "Tech Conference",
+    "description": "Relax and rejuvenate with yoga by the sea at golden hour.",
+    "location": "Karachi",
+    "date": "August 10, 2025",
+    "time": "5:30 PM - 7:00 PM",
+    "image": "./AI.jpeg"
+  },
+  {
+    "id": 3,
+    "eventName": "Battle of Bands",
+    "description": "Live performances on floating stages in paradise.",
+    "location": "MCS, NUST",
+    "date": "September 1, 2025",
+    "time": "6:00 PM - 11:00 PM",
+    "image": "./Battle.jpeg"
+  },
+  {
+    "id": 4,
+    "eventName": "Truck Art Workshop",
+    "description": "Discover Pakistan’s vibrant truck art & painting sessions.",
+    "location": "Lok Virsa, Islamabad",
+    "date": "October 5, 2025",
+    "time": "2:00 PM - 6:00 PM",
+    "image": "./Art.jpeg"
+  },
+  {
+    "id": 5,
+    "eventName": "Basant Festival",
+    "description": "Celebrate the colors of spring with kites, music, and food.",
+    "location": "Old Lahore",
+    "date": "March 12, 2025",
+    "time": "10:00 AM - 5:00 PM",
+    "image": "./IMG.jpg"
+  },
+  {
+    "id": 6,
+    "eventName": "Food Street Night",
+    "description": "Enjoy traditional street food and live Qawwali in the historic streets.",
+    "location": "Burns Road, Karachi",
+    "date": "November 15, 2025",
+    "time": "6:00 PM - 12:00 AM",
+    "image": "./Food.jpeg"
+  }
+]
