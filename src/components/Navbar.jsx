@@ -16,7 +16,7 @@ const Navbar = ({ setQuery}) => {
         </div>
 
         {/*  Desktop Navigation  */}
-        <div className="hidden md:flex space-x-6 text-sm font-medium text-gray-800 items-center">
+        <div className="hidden md:flex space-x-6 text-md font-medium text-gray-800 items-center">
           <a href="/" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300">Home</a>
           <a href="#events" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300 ">Events</a>
           <a href="#" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300 ">Contact</a>
