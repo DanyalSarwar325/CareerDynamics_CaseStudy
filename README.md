@@ -27,4 +27,4 @@ https://career-dynamics-case-study.vercel.app/
 
 ## 📸 Project Screenshot
 
-![LocalVibe Screenshot](./assets/CaseStudyImage.png)
+![LocalVibe Screenshot](./src/assets/CaseStudyImage.png)
