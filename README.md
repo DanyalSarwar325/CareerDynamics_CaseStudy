@@ -21,4 +21,6 @@ Follow the steps below to set up and run the project in your local environment:
 2. Run command - npm i
 3. Run Command-  npm run dev
 
-vercel Link
+1. **Vercel Link*
+
+https://career-dynamics-case-study.vercel.app/
