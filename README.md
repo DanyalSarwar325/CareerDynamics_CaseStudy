@@ -14,10 +14,15 @@
 
 Follow the steps below to set up and run the project in your local environment:
 
+
+## 🚀 Extra Features
+
+ I have used Lucid React for Icons used in Cards.
+ 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/DanyalSarwar325/CareerDynamics_CaseStudy.git
-   
+
 2. cd CareerDynamics_CaseStudy
 
 3. Run command - npm i
