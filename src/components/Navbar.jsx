@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { FiMenu, FiX, FiSearch } from 'react-icons/fi';
 
-const Navbar = ({ searchTerm}) => {
+const Navbar = ({ setQuery}) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
@@ -18,7 +18,7 @@ const Navbar = ({ searchTerm}) => {
         {/*  Desktop Navigation  */}
         <div className="hidden md:flex space-x-6 text-sm font-medium text-gray-800 items-center">
           <a href="/" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300">Home</a>
-          <a href="#events" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300 ">Events</a>
+          <a href="/events" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300 ">Events</a>
           <a href="#" className="font-bold border-b-2 border-transparent hover:border-pink-500 transition duration-300 ">Contact</a>
         </div>
 
@@ -26,8 +26,9 @@ const Navbar = ({ searchTerm}) => {
         <div className="hidden md:block relative w-64">
           <input
             type="text"
-        
-            
+            onChange={(e) => {
+              setQuery(e.target.value);
+            }}
             placeholder="Search..."
             className="w-full px-4 py-2 pr-10 border rounded-full text-sm focus:outline-none focus:ring-2 focus:ring-pink-500"
           />
@@ -56,8 +57,7 @@ const Navbar = ({ searchTerm}) => {
     <div className="relative w-64">
       <input
         type="text"
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
+        onChange={(e) => setQuery(e.target.value)}
         placeholder="Search..."
         className="w-full px-4 py-2 pr-10 border rounded-full text-sm focus:outline-none focus:ring-2 focus:ring-pink-500"
       />

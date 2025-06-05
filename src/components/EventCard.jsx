@@ -5,7 +5,8 @@ export const EventCard = ({ event }) => {
 
   
   return (
-    <div className="max-w-[250px]  h-full rounded-xl overflow-hidden shadow-lg transition duration-300 border border-gray-200 hover:border-pink-500 hover:shadow-pink-300 hover:shadow-md cursor-pointer">
+    <section id="#events">
+    <div className="max-w-[250px]   rounded-xl overflow-hidden shadow-lg transition duration-300 border border-gray-200 hover:border-pink-500 hover:shadow-pink-300 hover:shadow-md cursor-pointer">
       <img
         className="w-full h-40 object-cover"
         src={event.image}
@@ -35,6 +36,7 @@ export const EventCard = ({ event }) => {
         </div>
       </div>
     </div>
+    </section>
   );
 };
 

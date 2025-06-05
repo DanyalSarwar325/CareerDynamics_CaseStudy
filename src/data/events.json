@@ -52,5 +52,23 @@
     "date": "November 15, 2025",
     "time": "6:00 PM - 12:00 AM",
     "image": "./Food.jpeg"
+  },
+  {
+    "id": 7,
+    "eventName": "Film Screening Night",
+    "description": "Watch award-winning indie films under the stars.",
+    "location": "PNCA, Islamabad",
+    "date": "October 20, 2025",
+    "time": "7:00 PM - 10:00 PM",
+    "image": "./Film.jpeg"
+  },
+  {
+    "id": 8,
+    "eventName": "Handicrafts Expo",
+    "description": "Experience local artisans showcasing handmade crafts and traditional art.",
+    "location": "Expo Center, Lahore",
+    "date": "December 2, 2025",
+    "time": "11:00 AM - 7:00 PM",
+    "image": "./Handicraft.jpeg"
   }
 ]
