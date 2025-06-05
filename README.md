@@ -1,12 +1,24 @@
-# React + Vite
+# LocalVibe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**LocalVibe** is a responsive front-end project designed to help users explore local events and experiences with ease. Built using modern technologies, it offers a clean user interface and intuitive navigation.
 
-Currently, two official plugins are available:
+## 🛠 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** – For building interactive UI components
+- **JavaScript** – For dynamic functionality
+- **HTML** – For page structure
+- **Tailwind CSS** – For responsive, utility-first styling
+- **Lucide-react** – For icons (location, map, time, etc.)
 
-## Expanding the ESLint configuration
+## 🚀 How to Run the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow the steps below to set up and run the project in your local environment:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/DanyalSarwar325/CareerDynamics_CaseStudy.git
+
+2. Run command - npm i
+3. Run Command-  npm run dev
+
+vercel Link
